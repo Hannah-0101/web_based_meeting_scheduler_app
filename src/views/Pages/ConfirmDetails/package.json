@@ -1,0 +1,6 @@
+{
+    "name": "ConfirmDetails",
+    "version": "0.0.0",
+    "private": true,
+    "main": "./ConfirmDetails.js"
+  }
